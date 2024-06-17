@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manage Tags</title>
+</head>
+<body>
+    <h2>Manage Tags</h2>
+
+    <h3>Add New Tag</h3>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Add Tag</button>
+    </form>
+
+    <h3>Your Tags</h3>
+    <ul>
+        {% for tag in user_tags %}
+            <li>{{ tag.name }}
+                <a href="{% url 'delete_tag' tag.id %}">Delete</a>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <p><a href="{% url 'home' %}">Back to Home</a></p>
+</body>
+</html>

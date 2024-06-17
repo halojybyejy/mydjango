@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Expense Tracker</title>
+</head>
+<body>
+    {% if user.is_authenticated %}
+        <h2>Welcome to the Expense Tracker, {{ user.username }}!</h2>
+    {% else %}
+        <h2>Welcome to the Expense Tracker, please <a href="{% url 'login' %}">Login</a>.</h2>
+    {% endif %}
+    
+    <div id="root"></div>
+    {% load webpack_loader %}
+    {% render_bundle 'main' %}
+
+    {% comment %} 
+    <p>Total Balance:</p>
+    <h3>RM10,000.99</h3> 
+    {% endcomment %}
+
+    <h3>Your Accounts</h3>
+    <ul>
+        {% for account in accounts %}
+            <li>{{ account.name }}: RM{{ account.balance }}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Total Account Balance: RM{{ total_account.balance }}</h3>
+    
+    <p><a href="#">See transaction list</a></p>
+
+    <p>Expenses: Day, Week, Month, Year, Period</p>
+    <p>Income: Day, Week, Month, Year, Period</p>
+    
+    <h4>Choose something to do</h4>
+
+    <p><a href="{% url 'add_transaction' %}">Add Transaction</a></p>
+    {% comment %} 
+    Add expenses
+    Add income
+    Choose date
+    Comment for expenses and incomes
+    Upload receipt / photo
+    {% endcomment %}
+
+    <p><a href="#">My Profile</a></p>
+    {% comment %} 
+    Change username
+    Change password
+    Choose currency
+    Choose language
+    First Day of the week
+    Show by default (Total / Main / ABC)
+    Don't round
+    {% endcomment %}
+
+    <p><a href="#">Charts</a></p>
+    {% comment %} 
+    By year, month, week, day
+    General: income, expenses, profit, lost
+    Expenses 
+    Income
+    {% endcomment %}
+
+    <p><a href="{% url 'manage_accounts' %}">Manage Accounts</a></p>
+    {% comment %}
+    Total Account, Main Account, ABC Account
+    Add account
+    Remove account
+
+    - Main account is the default account,
+    - ABC account is the account created by user,
+    - Total Account will total all the account
+    {% endcomment %}
+    
+    <p><a href="{% url 'manage_categories' %}">Manage Categories</a></p>
+    {% comment %} 
+    Add category
+    Remove category    
+    {% endcomment %}
+
+    <p><a href="#">Manage Tags</a></p>
+    {% comment %} 
+    Add tag
+    Remove tag    
+    {% endcomment %}
+
+    <form id="logout-form" action="{% url 'logout' %}" method="post" style="display: none;">
+        {% csrf_token %}
+        <input type="submit" value="Logout">
+    </form>
+    <p><a href="#" onclick="document.getElementById('logout-form').submit(); return false;">Logout</a></p>
+</body>
+</html>
