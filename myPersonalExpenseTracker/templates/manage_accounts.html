@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manage Accounts</title>
+</head>
+<body>
+    <h2>Manage Accounts</h2>
+
+    <h3>Add New Account</h3>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Add Account</button>
+    </form>
+
+    <h3>Your Accounts</h3>
+    <ul>
+        <li>{{ main_account.name }}: RM{{ main_account.balance }} (Main Account)</li>
+        <li>{{ total_account.name }}: RM{{ total_account.balance }} (Total Account)</li>
+        {% for account in accounts %}
+            <li>{{ account.name }}: RM{{ account.balance }}
+                <a href="{% url 'delete_account' account.id %}">Delete</a>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <p><a href="{% url 'home' %}">Back to Home</a></p>
+</body>
+</html>
