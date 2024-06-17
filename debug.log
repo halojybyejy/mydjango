@@ -16608,3 +16608,668 @@ File C:\mydjango\myenv\Lib\site-packages\webpack_loader\loaders.py first seen wi
 File C:\mydjango\myenv\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1718197858.0269163
 File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1718197859.471319
 File C:\mydjango\myenv\Lib\site-packages\webpack_loader\exceptions.py first seen with mtime 1718464110.246066
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir C:\mydjango\myPersonalExpenseTracker\templates with glob **/*.
+Watching dir C:\mydjango\templates with glob **/*.
+Watching dir C:\mydjango\locale with glob **/*.mo.
+Watching dir C:\mydjango\myPersonalExpenseTracker\locale with glob **/*.mo.
+Watching dir C:\mydjango\myenv\Lib\site-packages\webpack_loader\locale with glob **/*.mo.
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1718197859.1410084
+File C:\mydjango\myenv\Lib\site-packages\django\views\generic\base.py first seen with mtime 1718197860.1492343
+File C:\mydjango\myenv\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1718197860.141343
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1718197858.0269163
+File C:\mydjango\myenv\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1718197860.0712895
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1718197856.1367786
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\headerregistry.py first seen with mtime 1709547524.102602
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1718197852.4878054
+File C:\mydjango\myenv\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1718197859.5697608
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1718197859.812775
+File C:\mydjango\myenv\Lib\site-packages\django\shortcuts.py first seen with mtime 1718197853.6641426
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1718197859.4754946
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\ctypes\wintypes.py first seen with mtime 1709547524.0739512
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1718197859.5348437
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\models.py first seen with mtime 1718197858.7582245
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1718197854.3251302
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\storage\handler.py first seen with mtime 1718197859.5551302
+File C:\mydjango\myenv\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1718197860.13266
+File C:\mydjango\myenv\Lib\site-packages\webpack_loader\__init__.py first seen with mtime 1718464110.23504
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\signals.py first seen with mtime 1718197859.6845512
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1718197859.8337867
+File C:\mydjango\myenv\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1718197860.0187047
+File C:\mydjango\myenv\Lib\site-packages\asgiref\sync.py first seen with mtime 1718197853.3647454
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1718197859.8210368
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\heapq.py first seen with mtime 1709547524.3879464
+File C:\mydjango\myenv\Lib\site-packages\webpack_loader\errors.py first seen with mtime 1718464110.2386162
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\constants.py first seen with mtime 1718197859.7846916
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\http\client.py first seen with mtime 1713754975.5877428
+File C:\mydjango\myenv\Lib\site-packages\django\http\__init__.py first seen with mtime 1718197859.9771137
+File C:\mydjango\myenv\Lib\site-packages\django\conf\__init__.py first seen with mtime 1718197853.6726682
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\logging\__init__.py first seen with mtime 1713754975.699118
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\copy.py first seen with mtime 1709547524.0614667
+File C:\mydjango\myenv\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1718197859.6300533
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1718197859.5482962
+File C:\mydjango\myenv\Lib\site-packages\webpack_loader\config.py first seen with mtime 1718464110.2373073
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1718197859.5196402
+File C:\mydjango\myenv\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1718197860.064969
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\difflib.py first seen with mtime 1709547524.1002915
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\nturl2path.py first seen with mtime 1709547524.966816
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\traceback.py first seen with mtime 1709547526.0746386
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1718197859.4627485
+File C:\mydjango\myenv\Lib\site-packages\django\apps\__init__.py first seen with mtime 1718197853.6699584
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\_compat_pickle.py first seen with mtime 1709547526.252746
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\ipaddress.py first seen with mtime 1717836643.7715666
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_uuid.pyd first seen with mtime 1717836643.4631562
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1718197859.4843214
+File C:\mydjango\myenv\Lib\site-packages\django\forms\renderers.py first seen with mtime 1718197859.8534937
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\_header_value_parser.py first seen with mtime 1717836643.6278024
+File C:\mydjango\myPersonalExpenseTracker\forms.py first seen with mtime 1718460543.8691902
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\release.py first seen with mtime 1718199713.3881826
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\wsgiref\util.py first seen with mtime 1709547526.1738906
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\selector_events.py first seen with mtime 1709547523.986475
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1718197856.1405034
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\locks.py first seen with mtime 1709547523.9809787
+File C:\mydjango\myenv\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1718197860.031179
+File C:\mydjango\myPersonalExpenseTracker\__init__.py first seen with mtime 1718196969.6268468
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1718197854.3377652
+File C:\mydjango\myenv\Lib\site-packages\django\utils\asyncio.py first seen with mtime 1718197860.0689673
+File C:\mydjango\myenv\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1718197860.0777965
+File C:\mydjango\myenv\Lib\site-packages\django\utils\timesince.py first seen with mtime 1718197860.1117465
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\collections\__init__.py first seen with mtime 1713754975.440775
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\base.py first seen with mtime 1718197859.7074184
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\encodings\__init__.py first seen with mtime 1709547524.2074435
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\unicodedata.pyd first seen with mtime 1717836633.3160434
+File C:\mydjango\myenv\Lib\site-packages\django\utils\connection.py first seen with mtime 1718197860.0733054
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1718197852.4806783
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\views.py first seen with mtime 1718197855.7312918
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\platform.py first seen with mtime 1717836643.7941878
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\protocols.py first seen with mtime 1709547523.986475
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py first seen with mtime 1709547524.7111576
+File C:\mydjango\myenv\Lib\site-packages\django\utils\tree.py first seen with mtime 1718197860.115744
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\constants\FIELD_TYPE.py first seen with mtime 1718199713.396239
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\ctypes\_endian.py first seen with mtime 1709547524.0739512
+File C:\mydjango\myenv\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1718197860.1492343
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\staggered.py first seen with mtime 1709547523.9907508
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1718197855.7001884
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\introspection.py first seen with mtime 1718197859.714607
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1718197859.4627485
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\gzip.py first seen with mtime 1709547524.3879464
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py first seen with mtime 1713754975.3794172
+File C:\mydjango\myenv\Lib\site-packages\webpack_loader\utils.py first seen with mtime 1718464110.2475936
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1718197854.3333044
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1718197859.6818178
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\base.py first seen with mtime 1718197859.7846916
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\lzma.py first seen with mtime 1709547524.8943074
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\importlib\__init__.py first seen with mtime 1709547524.7014754
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_bz2.pyd first seen with mtime 1717836633.6823056
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\constants.py first seen with mtime 1709547523.9777536
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_futures.py first seen with mtime 1709547523.9767451
+File C:\mydjango\myenv\Lib\site-packages\django\template\loader.py first seen with mtime 1718197860.0107596
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_ctypes.pyd first seen with mtime 1717836633.6841493
+File C:\mydjango\myenv\Lib\site-packages\django\utils\inspect.py first seen with mtime 1718197860.095179
+File C:\mydjango\myenv\Lib\site-packages\django\__init__.py first seen with mtime 1718197853.6641426
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1718197859.7562814
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1718197859.7962646
+File C:\mydjango\myenv\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1718197860.0440264
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1718197859.8117566
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\hmac.py first seen with mtime 1709547524.3891027
+File C:\mydjango\myenv\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1718197860.1077273
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\tokens.py first seen with mtime 1718197855.725226
+File C:\mydjango\myenv\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1718197860.1371615
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\decorators.py first seen with mtime 1718197855.7153637
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\base\introspection.py first seen with mtime 1718197859.6960309
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\fnmatch.py first seen with mtime 1709547524.382261
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\getpass.py first seen with mtime 1709547524.3836324
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py first seen with mtime 1709547523.986475
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py first seen with mtime 1709547524.7155294
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\threads.py first seen with mtime 1709547523.9926677
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\_markupbase.py first seen with mtime 1709547526.252746
+File C:\mydjango\myenv\Lib\site-packages\django\template\base.py first seen with mtime 1718197859.9995317
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sites\__init__.py first seen with mtime 1718197859.128994
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1718197859.5185306
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\storage\__init__.py first seen with mtime 1718197859.5533032
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\_base.py first seen with mtime 1709547524.053164
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\base\validation.py first seen with mtime 1718197859.7003584
+File C:\mydjango\myenv\Lib\site-packages\django\template\exceptions.py first seen with mtime 1718197860.007424
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\select.pyd first seen with mtime 1717836632.6965435
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1718197855.3294072
+File C:\mydjango\myenv\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1718197859.5910132
+File C:\mydjango\myenv\Lib\site-packages\django\views\__init__.py first seen with mtime 1718197860.128361
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\functools.py first seen with mtime 1717836643.6789966
+File C:\mydjango\myenv\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1718197860.0271595
+File C:\mydjango\myenv\Lib\site-packages\django\core\signals.py first seen with mtime 1718197859.4942713
+File C:\mydjango\myenv\Lib\site-packages\django\http\request.py first seen with mtime 1718197859.9831655
+File C:\mydjango\myenv\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1718197859.9908156
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py first seen with mtime 1709547525.007026
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\_weakrefset.py first seen with mtime 1709547526.2624996
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\calendar.py first seen with mtime 1709547524.0439868
+File C:\mydjango\myenv\Lib\site-packages\django\utils\http.py first seen with mtime 1718197860.095179
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\string.py first seen with mtime 1709547526.0237937
+File C:\mydjango\myenv\Lib\site-packages\django\core\__init__.py first seen with mtime 1718197859.4884107
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\ssl.py first seen with mtime 1709547526.0213962
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\streams.py first seen with mtime 1709547523.9907508
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1718197855.3380525
+File C:\mydjango\myenv\Lib\site-packages\django\core\wsgi.py first seen with mtime 1718197859.5011547
+File C:\mydjango\myenv\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1718197860.1527114
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1718197854.3292563
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1718197855.3294072
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1718197858.7526445
+File C:\mydjango\myPersonalExpenseTracker\models.py first seen with mtime 1718460415.5982506
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\logging\handlers.py first seen with mtime 1713754975.699118
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1718197858.7526445
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1718197859.8393145
+File C:\mydjango\myenv\Lib\site-packages\django\template\library.py first seen with mtime 1718197860.0107596
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\base64.py first seen with mtime 1717836643.6010597
+File C:\mydjango\myenv\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1718197860.1453753
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\pathlib.py first seen with mtime 1717836643.7931209
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_lzma.pyd first seen with mtime 1717836643.4261234
+File C:\mydjango\myenv\Lib\site-packages\django\template\response.py first seen with mtime 1718197860.0142744
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\hashlib.py first seen with mtime 1709547524.3879464
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\contextvars.py first seen with mtime 1709547524.0614667
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\logging\config.py first seen with mtime 1717836643.7817438
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1718197859.8099167
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\policy.py first seen with mtime 1717836643.6266592
+File C:\mydjango\myenv\Lib\site-packages\django\apps\config.py first seen with mtime 1718197853.6711388
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\storage\base.py first seen with mtime 1718197859.55462
+File C:\mydjango\myenv\Lib\site-packages\django\template\utils.py first seen with mtime 1718197860.0187047
+File C:\mydjango\myenv\Lib\site-packages\django\apps\registry.py first seen with mtime 1718197853.6711388
+File C:\mydjango\myenv\Lib\site-packages\django\forms\formsets.py first seen with mtime 1718197859.8491569
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\random.py first seen with mtime 1709547525.0030093
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\options.py first seen with mtime 1718197859.797627
+File C:\mydjango\myenv\Lib\site-packages\django\forms\forms.py first seen with mtime 1718197859.846622
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1718197859.5493433
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\weakref.py first seen with mtime 1709547526.1714034
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\enum.py first seen with mtime 1713754975.5837266
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\generated.py first seen with mtime 1718197859.8088892
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\collections\abc.py first seen with mtime 1709547524.0489373
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1718197859.4672215
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\subprocess.py first seen with mtime 1709547523.9907508
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\zoneinfo\__init__.py first seen with mtime 1709547526.2457137
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py first seen with mtime 1713754977.1327126
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\__init__.py first seen with mtime 1709547524.1239314
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1718197852.4622893
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\database.py first seen with mtime 1718197859.5213096
+File C:\mydjango\myenv\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1718197859.6721437
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\files.py first seen with mtime 1718197859.5224545
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1718197855.3337
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1718197859.806147
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\encodings\aliases.py first seen with mtime 1709547524.1571684
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\mime\nonmultipart.py first seen with mtime 1709547524.1085627
+File C:\mydjango\myenv\Lib\site-packages\django\utils\text.py first seen with mtime 1718197860.1117465
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\mime\text.py first seen with mtime 1709547524.1085627
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\copyreg.py first seen with mtime 1709547524.0614667
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1718197859.5310972
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\token.py first seen with mtime 1709547526.0652404
+File C:\mydjango\myenv\Lib\site-packages\django\template\autoreload.py first seen with mtime 1718197859.9972837
+File C:\mydjango\myenv\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1718197859.660608
+File C:\mydjango\myenv\Lib\site-packages\django\forms\__init__.py first seen with mtime 1718197859.8426042
+File C:\mydjango\myenv\Lib\site-packages\django\template\backends\base.py first seen with mtime 1718197860.0187047
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\json\scanner.py first seen with mtime 1709547524.7111576
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\ctypes\__init__.py first seen with mtime 1717836643.6022406
+File C:\mydjango\myenv\Lib\site-packages\django\middleware\security.py first seen with mtime 1718197859.993498
+File C:\mydjango\myenv\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1718197860.1077273
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\tempfile.py first seen with mtime 1709547526.0295684
+File C:\mydjango\myPersonalExpenseTracker\apps.py first seen with mtime 1718285207.6928227
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1718197859.7806716
+File C:\mydjango\myenv\Lib\site-packages\django\http\response.py first seen with mtime 1718197859.9846816
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\mixins.py first seen with mtime 1709547523.98251
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1718197859.8170073
+File C:\mydjango\myenv\Lib\site-packages\django\utils\translation\reloader.py first seen with mtime 1718197860.1199186
+File C:\mydjango\myenv\Lib\site-packages\django\views\debug.py first seen with mtime 1718197860.130624
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1718197859.7770586
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\tokenize.py first seen with mtime 1713754976.9861834
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1718197852.4579268
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1718197859.7927535
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\urllib\error.py first seen with mtime 1709547526.1425407
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\timeouts.py first seen with mtime 1709547523.9926677
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1718197854.3333044
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1718197859.7806716
+File C:\mydjango\myenv\Lib\site-packages\webpack_loader\apps.py first seen with mtime 1718464110.23504
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\uuid.py first seen with mtime 1709547526.1558561
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\re\_compiler.py first seen with mtime 1709547525.0048406
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\forms.py first seen with mtime 1718197855.7153637
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1718197856.1324906
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\base\features.py first seen with mtime 1718197859.6949422
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\bisect.py first seen with mtime 1709547524.0439868
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_subprocess.py first seen with mtime 1709547523.9767451
+File C:\mydjango\myenv\Lib\site-packages\django\db\transaction.py first seen with mtime 1718197859.6784813
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1718197859.469401
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1718197852.4837003
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1718197859.788691
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1718197858.0227447
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\struct.py first seen with mtime 1709547526.0243475
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1718197854.3251302
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1718197855.7097638
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\sql.py first seen with mtime 1718197852.471047
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\subprocess.py first seen with mtime 1713754976.8225899
+File C:\mydjango\myenv\Lib\site-packages\django\utils\dates.py first seen with mtime 1718197860.082125
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\feedparser.py first seen with mtime 1709547524.102602
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\glob.py first seen with mtime 1713754975.5837266
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\cli.py first seen with mtime 1718197852.4622893
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1718197859.8170073
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1718197852.4740317
+File C:\mydjango\myenv\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1718197860.037993
+File C:\mydjango\mydjango\__init__.py first seen with mtime 1718196809.0383062
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1718197854.3227477
+File C:\mydjango\myenv\Lib\site-packages\django\utils\safestring.py first seen with mtime 1718197860.1077273
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\__init__.py first seen with mtime 1718197859.7052639
+File C:\mydjango\myenv\Lib\site-packages\django\core\validators.py first seen with mtime 1718197859.4995701
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\storage\memory.py first seen with mtime 1718197859.5581455
+File C:\mydjango\myenv\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1718197860.1371615
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\types.py first seen with mtime 1709547526.112202
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1718197858.7526445
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1718197859.7846916
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\selectors.py first seen with mtime 1709547525.0189772
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\transports.py first seen with mtime 1709547523.9926677
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1718197859.5267148
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\_exceptions.py first seen with mtime 1718199713.368301
+File C:\mydjango\myenv\Lib\site-packages\django\urls\converters.py first seen with mtime 1718197860.0609512
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\concurrent\__init__.py first seen with mtime 1709547524.0601609
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1718197854.3166344
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1718197854.3377652
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\trsock.py first seen with mtime 1709547523.9926677
+File C:\mydjango\myenv\Lib\site-packages\django\template\smartif.py first seen with mtime 1718197860.0142744
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\wsgiref\__init__.py first seen with mtime 1709547526.174256
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\encoders.py first seen with mtime 1709547524.102602
+File C:\mydjango\myenv\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1718197860.1051521
+File C:\mydjango\myenv\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1718197859.563605
+File C:\mydjango\myenv\Lib\site-packages\asgiref\local.py first seen with mtime 1718197853.3603294
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\proactor_events.py first seen with mtime 1717836643.5842152
+File C:\mydjango\myenv\Lib\site-packages\django\template\context.py first seen with mtime 1718197860.0015476
+File C:\mydjango\myPersonalExpenseTracker\admin.py first seen with mtime 1718201366.2526236
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1718197852.491321
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\errors.py first seen with mtime 1709547524.102602
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1718197852.495024
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\taskgroups.py first seen with mtime 1709547523.9907508
+File C:\mydjango\myenv\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1718197860.153736
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\threading.py first seen with mtime 1709547526.0306067
+File C:\mydjango\myenv\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1718197859.5062242
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1718197859.686071
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1718197859.815993
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\_mysql.cp312-win_amd64.pyd first seen with mtime 1718199713.3723
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\pickle.py first seen with mtime 1709547524.9741075
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\signal.py first seen with mtime 1709547525.0209858
+File C:\mydjango\myenv\Lib\site-packages\django\utils\itercompat.py first seen with mtime 1718197860.1005034
+File C:\mydjango\myenv\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1718197859.6661408
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1718197852.4680295
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1718197859.7710285
+File C:\mydjango\myenv\Lib\site-packages\django\urls\base.py first seen with mtime 1718197860.0579376
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1718197859.8170073
+File C:\mydjango\myenv\Lib\site-packages\django\utils\functional.py first seen with mtime 1718197860.0907848
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1718197852.491321
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\http\__init__.py first seen with mtime 1709547524.4048805
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1718197859.5294988
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\base64mime.py first seen with mtime 1709547524.102602
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\utils.py first seen with mtime 1709547524.1190867
+File C:\mydjango\myenv\Lib\site-packages\django\core\management\color.py first seen with mtime 1718197859.594026
+File C:\mydjango\myenv\Lib\site-packages\django\template\loaders\cached.py first seen with mtime 1718197860.031179
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sites\requests.py first seen with mtime 1718197859.1396394
+File C:\mydjango\myenv\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1718197860.0356364
+File C:\mydjango\myenv\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1718197860.141343
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\futures.py first seen with mtime 1709547523.9809787
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\html\__init__.py first seen with mtime 1709547524.3907661
+File C:\mydjango\myenv\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1718197860.1243439
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1718197859.4782906
+File C:\mydjango\manage.py first seen with mtime 1718196809.0205605
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1718197858.0360084
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1718197855.3380525
+File C:\mydjango\myenv\Lib\site-packages\django\utils\timezone.py first seen with mtime 1718197860.1117465
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\constants\__init__.py first seen with mtime 1718199713.3977544
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\locks.py first seen with mtime 1718197859.5436192
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\html\parser.py first seen with mtime 1709547524.3891027
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\operator.py first seen with mtime 1709547524.9681082
+File C:\mydjango\myenv\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1718197859.5646884
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\signals.py first seen with mtime 1718197859.8000865
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\opcode.py first seen with mtime 1709547524.9681082
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1718197854.3166344
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1718197855.7085776
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1718197859.5359414
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1718197858.7582245
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1718197859.8253002
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1718197859.808381
+File C:\mydjango\myenv\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1718197859.5039146
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_ssl.pyd first seen with mtime 1717836643.446758
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1718197859.7572968
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\utils.py first seen with mtime 1718197852.4771607
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_tasks.py first seen with mtime 1709547523.9777536
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\pprint.py first seen with mtime 1709547524.9779465
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\images.py first seen with mtime 1718197859.5424588
+File C:\mydjango\myenv\Lib\site-packages\django\views\static.py first seen with mtime 1718197860.13266
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\http\cookies.py first seen with mtime 1709547524.403236
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1718197852.496138
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\creation.py first seen with mtime 1718197859.7118652
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\temp.py first seen with mtime 1718197859.54633
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\enums.py first seen with mtime 1718197859.7922323
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\decimal.py first seen with mtime 1717836643.6134574
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\exceptions.py first seen with mtime 1709547523.9789705
+File C:\mydjango\myenv\Lib\site-packages\django\core\management\base.py first seen with mtime 1718197859.594026
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py first seen with mtime 1709547523.9789705
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\operations.py first seen with mtime 1718197859.7157004
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1718197856.1282604
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1718197858.7607417
+File C:\mydjango\myenv\Lib\site-packages\django\utils\duration.py first seen with mtime 1718197860.0865717
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1718197856.1342764
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\sslproto.py first seen with mtime 1709547523.990463
+File C:\mydjango\myenv\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1718197859.8393145
+File C:\mydjango\myenv\Lib\site-packages\django\urls\conf.py first seen with mtime 1718197860.0609512
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\generator.py first seen with mtime 1713754975.450302
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\validators.py first seen with mtime 1718197855.7297122
+File C:\mydjango\myenv\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1718197859.8426042
+File C:\mydjango\myenv\Lib\site-packages\django\utils\_os.py first seen with mtime 1718197860.064969
+File C:\mydjango\myenv\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1718197853.3568048
+File C:\mydjango\mydjango\urls.py first seen with mtime 1718197386.6610155
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1718197852.471047
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\graphlib.py first seen with mtime 1709547524.3836324
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\datetime.py first seen with mtime 1709547524.0905159
+File C:\mydjango\myenv\Lib\site-packages\django\utils\crypto.py first seen with mtime 1718197860.0777965
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\re\_casefix.py first seen with mtime 1709547525.0048406
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\queues.py first seen with mtime 1709547523.986475
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\base.py first seen with mtime 1718197859.5413177
+File C:\mydjango\myenv\Lib\site-packages\django\forms\utils.py first seen with mtime 1718197859.8534937
+File C:\mydjango\myenv\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1718197859.8393145
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1718197858.7607417
+File C:\mydjango\myenv\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1718197860.0271595
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\features.py first seen with mtime 1718197859.71296
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1718197859.5277271
+File C:\mydjango\myPersonalExpenseTracker\signals.py first seen with mtime 1718460464.7478611
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\coroutines.py first seen with mtime 1709547523.9777536
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1718197859.8267467
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\constants\CLIENT.py first seen with mtime 1718199713.389697
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1718197859.7806716
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1718197859.8267467
+File C:\mydjango\myenv\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1718197860.1077273
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1718197859.8000865
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\schema.py first seen with mtime 1718197859.716804
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_overlapped.pyd first seen with mtime 1717836643.440449
+File C:\mydjango\myenv\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1718197859.51039
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\base\creation.py first seen with mtime 1718197859.6926763
+File C:\mydjango\myenv\Lib\site-packages\django\templatetags\static.py first seen with mtime 1718197860.0400062
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1718197859.838153
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1718197859.8365612
+File C:\mydjango\myenv\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1718197860.082125
+File C:\mydjango\myenv\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1718197860.1051521
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1718197856.1383462
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\storage\filesystem.py first seen with mtime 1718197859.5551302
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1718197859.5388095
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1718197855.3365383
+File C:\mydjango\mydjango\settings.py first seen with mtime 1718464321.6840522
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\converters.py first seen with mtime 1718199713.3852398
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_queue.pyd first seen with mtime 1717836643.441031
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\models.py first seen with mtime 1718197855.721207
+File C:\mydjango\myenv\Lib\site-packages\django\utils\__init__.py first seen with mtime 1718197860.064969
+File C:\mydjango\myenv\Lib\site-packages\django\template\engine.py first seen with mtime 1718197860.007424
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\gettext.py first seen with mtime 1709547524.3836324
+File C:\mydjango\myenv\Lib\site-packages\django\views\generic\list.py first seen with mtime 1718197860.153736
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\mime\multipart.py first seen with mtime 1709547524.1085627
+File C:\mydjango\myenv\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1718197859.980647
+File C:\mydjango\myenv\Lib\site-packages\django\utils\encoding.py first seen with mtime 1718197860.0892718
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1718197856.1314764
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\urllib\response.py first seen with mtime 1709547526.1455772
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\re\_constants.py first seen with mtime 1709547525.0058453
+File C:\mydjango\myenv\Lib\site-packages\django\db\utils.py first seen with mtime 1718197859.680121
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\re\_parser.py first seen with mtime 1709547525.0058453
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\reprlib.py first seen with mtime 1709547525.0037854
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_asyncio.pyd first seen with mtime 1717836633.653461
+File C:\mydjango\myenv\Lib\site-packages\django\core\signing.py first seen with mtime 1718197859.497287
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\keyword.py first seen with mtime 1709547524.7239926
+File C:\mydjango\myenv\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1718197860.084329
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\socketserver.py first seen with mtime 1709547526.0131187
+File C:\mydjango\myenv\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1718197860.0609512
+File C:\mydjango\myenv\Lib\site-packages\django\utils\choices.py first seen with mtime 1718197860.0733054
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\constants\FLAG.py first seen with mtime 1718199713.3977544
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1718197859.5168986
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\utils.py first seen with mtime 1718197859.8041275
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\bz2.py first seen with mtime 1709547524.0439868
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1718197859.6910186
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1718197855.721207
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\__init__.py first seen with mtime 1709547524.053164
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1718197855.725226
+File C:\mydjango\myenv\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1718197860.0356364
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\mimetypes.py first seen with mtime 1713754975.783213
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1718197852.4806783
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\typing.py first seen with mtime 1717836653.2189639
+File C:\mydjango\myenv\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1718197853.6849341
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1718197859.7927535
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\sysconfig.py first seen with mtime 1709547526.0269685
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1718197855.3337
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\linecache.py first seen with mtime 1713754975.699118
+File C:\mydjango\myenv\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1718197860.0015476
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1718197858.0360084
+File C:\mydjango\myenv\Lib\site-packages\django\db\__init__.py first seen with mtime 1718197859.6768441
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\charset.py first seen with mtime 1709547524.102602
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1718197859.829768
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\quopri.py first seen with mtime 1709547525.0020103
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_utils.py first seen with mtime 1709547523.9946785
+File C:\mydjango\myenv\Lib\site-packages\django\forms\widgets.py first seen with mtime 1718197859.855508
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\wsgiref\handlers.py first seen with mtime 1709547526.1724043
+File C:\mydjango\myPersonalExpenseTracker\views.py first seen with mtime 1718460624.6937623
+File C:\mydjango\myenv\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1718197860.0142744
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\importlib\_abc.py first seen with mtime 1709547524.6998026
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1718197855.3380525
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\_compression.py first seen with mtime 1709547526.252746
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1718197856.0994995
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\zoneinfo\_tzpath.py first seen with mtime 1709547526.244714
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\wsgiref\simple_server.py first seen with mtime 1709547526.1724043
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py first seen with mtime 1713754975.3794172
+File C:\mydjango\myenv\Lib\site-packages\asgiref\__init__.py first seen with mtime 1718197853.3527908
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1718197859.5256586
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\queue.py first seen with mtime 1709547525.0020103
+File C:\mydjango\myenv\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1718197860.095179
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1718197859.812775
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1718197859.7770586
+File C:\mydjango\myenv\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1718197860.007424
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\move.py first seen with mtime 1718197859.5446806
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1718197859.7724686
+File C:\mydjango\myenv\Lib\site-packages\django\core\exceptions.py first seen with mtime 1718197859.4928071
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1718197859.8210368
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\iterators.py first seen with mtime 1709547524.102602
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\message.py first seen with mtime 1717836643.6177623
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\mime\message.py first seen with mtime 1709547524.1085627
+File C:\mydjango\myenv\Lib\site-packages\django\forms\models.py first seen with mtime 1718197859.8522434
+File C:\mydjango\myenv\Lib\site-packages\django\urls\__init__.py first seen with mtime 1718197860.0579376
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\client.py first seen with mtime 1718197859.7091455
+File C:\mydjango\myenv\Lib\site-packages\django\http\cookie.py first seen with mtime 1718197859.980647
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\__init__.py first seen with mtime 1718199713.364281
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1718197858.0227447
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\base\schema.py first seen with mtime 1718197859.698732
+File C:\mydjango\myenv\Lib\site-packages\django\core\mail\message.py first seen with mtime 1718197859.570863
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\base\base.py first seen with mtime 1718197859.689312
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_zoneinfo.pyd first seen with mtime 1717836643.4648368
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_hashlib.pyd first seen with mtime 1717836633.748813
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\__init__.py first seen with mtime 1709547523.9946785
+File C:\mydjango\myenv\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1718197859.9851956
+File C:\mydjango\myenv\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1718197859.6589906
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1718197859.7747183
+File C:\mydjango\myenv\Lib\site-packages\django\template\backends\django.py first seen with mtime 1718197860.0187047
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\validation.py first seen with mtime 1718197859.717899
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\numbers.py first seen with mtime 1709547524.9681082
+File C:\mydjango\myenv\Lib\site-packages\django\middleware\cache.py first seen with mtime 1718197859.9862664
+File C:\mydjango\myenv\Lib\site-packages\django\utils\decorators.py first seen with mtime 1718197860.0855577
+File C:\mydjango\myenv\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1718197859.6020448
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1718197859.7653143
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\shutil.py first seen with mtime 1717836653.121834
+File C:\mydjango\myenv\Lib\site-packages\django\utils\html.py first seen with mtime 1718197860.095179
+File C:\mydjango\myenv\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1718197859.660608
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\header.py first seen with mtime 1709547524.102602
+File C:\mydjango\myenv\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1718197860.0811057
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py first seen with mtime 1709547524.164124
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_decimal.pyd first seen with mtime 1717836633.7128222
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1718197854.320654
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\ddl_references.py first seen with mtime 1718197859.6840115
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py first seen with mtime 1713754975.3754158
+File C:\mydjango\myenv\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1718197853.6752021
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\_parseaddr.py first seen with mtime 1709547524.123794
+File C:\mydjango\myenv\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1718197860.0865717
+File C:\mydjango\myenv\Lib\site-packages\webpack_loader\templatetags\webpack_loader.py first seen with mtime 1718464110.2559052
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\format_helpers.py first seen with mtime 1709547523.9799738
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1718197855.7171793
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\secrets.py first seen with mtime 1709547525.0179007
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\ast.py first seen with mtime 1713754975.3604016
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\query.py first seen with mtime 1718197859.8000865
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1718197854.3292563
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\compatibility\__init__.py first seen with mtime 1718197859.5321436
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1718197856.6281292
+File C:\mydjango\myenv\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1718197859.5022638
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1718197859.6876338
+File C:\mydjango\myenv\Lib\site-packages\django\template\__init__.py first seen with mtime 1718197859.9972837
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1718197859.4672215
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1718197852.4796436
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\contextlib.py first seen with mtime 1709547524.0614667
+File C:\mydjango\myenv\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1718197860.1199186
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1718197859.5401168
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\contentmanager.py first seen with mtime 1709547524.102602
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\parser.py first seen with mtime 1709547524.1170807
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\quoprimime.py first seen with mtime 1709547524.1190867
+File C:\mydjango\myenv\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1718197859.5050385
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\compatibility\django_4_0.py first seen with mtime 1718197859.5337589
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1718197852.4837003
+File C:\mydjango\myPersonalExpenseTracker\urls.py first seen with mtime 1718464098.0720203
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\inspect.py first seen with mtime 1717836643.7705064
+File C:\mydjango\myenv\Lib\site-packages\django\utils\version.py first seen with mtime 1718197860.117902
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\locale.py first seen with mtime 1717836643.780607
+File C:\mydjango\myenv\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1718197859.6749449
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\utils.py first seen with mtime 1718197859.5510366
+File C:\mydjango\myenv\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1718197859.5725172
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\_policybase.py first seen with mtime 1717836643.6283758
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1718197855.7097638
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\asyncio\log.py first seen with mtime 1709547523.9819279
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1718197856.1342764
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1718197859.4798515
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\dataclasses.py first seen with mtime 1717836643.612894
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\_encoded_words.py first seen with mtime 1709547524.1190867
+File C:\mydjango\myenv\Lib\site-packages\django\utils\cache.py first seen with mtime 1718197860.0733054
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1718197859.5242257
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\wsgiref\headers.py first seen with mtime 1709547526.1724043
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1718197858.0327654
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1718197859.8210368
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\dis.py first seen with mtime 1709547524.1002915
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1718197855.7171793
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1718197858.0227447
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\encodings\utf_8.py first seen with mtime 1709547524.2030752
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1718197854.3166344
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\views\main.py first seen with mtime 1718197855.3420708
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1718197854.3227477
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\manager.py first seen with mtime 1718197859.7962646
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\socket.py first seen with mtime 1717836653.156163
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1718197859.829768
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_wmi.pyd first seen with mtime 1717836643.4642208
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\thread.py first seen with mtime 1709547524.053164
+File C:\mydjango\myenv\Lib\site-packages\django\urls\utils.py first seen with mtime 1718197860.064969
+File C:\mydjango\myenv\Lib\site-packages\django\utils\formats.py first seen with mtime 1718197860.0907848
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1718197855.7070496
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\pkgutil.py first seen with mtime 1709547524.9741075
+File C:\mydjango\myenv\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1718197859.561955
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1718197859.6976407
+File C:\mydjango\myenv\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1718197859.5376296
+File C:\mydjango\myenv\Lib\site-packages\webpack_loader\templatetags\__init__.py first seen with mtime 1718464110.2516148
+File C:\mydjango\myenv\Lib\site-packages\django\core\files\storage\mixins.py first seen with mtime 1718197859.5603554
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1718197852.4667966
+File C:\mydjango\myenv\Lib\site-packages\django\views\i18n.py first seen with mtime 1718197860.13266
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1718197855.7054336
+File C:\mydjango\myenv\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1718197859.5679667
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\DLLs\_socket.pyd first seen with mtime 1717836643.442172
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\html\entities.py first seen with mtime 1709547524.3891027
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\urllib\__init__.py first seen with mtime 1717836624.272058
+File C:\mydjango\myenv\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1718197852.4878054
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\mime\__init__.py first seen with mtime 1717836622.5920546
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\warnings.py first seen with mtime 1717836653.341352
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\textwrap.py first seen with mtime 1709547526.0300918
+File C:\mydjango\myenv\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1718197859.5663204
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py first seen with mtime 1713754975.6661038
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1718197859.7903037
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\zoneinfo\_common.py first seen with mtime 1709547526.243715
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1718197859.4769692
+File C:\mydjango\myenv\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1718197860.0400062
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\argparse.py first seen with mtime 1713754975.3604016
+File C:\mydjango\myenv\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1718197860.0336218
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\email\mime\base.py first seen with mtime 1709547524.1071036
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\times.py first seen with mtime 1718199713.389697
+File C:\mydjango\myenv\Lib\site-packages\django\utils\hashable.py first seen with mtime 1718197860.0907848
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\urllib\parse.py first seen with mtime 1717836653.2590892
+File C:\mydjango\myenv\Lib\site-packages\django\forms\fields.py first seen with mtime 1718197859.846622
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\http\server.py first seen with mtime 1709547524.4048805
+File C:\mydjango\myenv\Lib\site-packages\django\utils\log.py first seen with mtime 1718197860.103521
+File C:\mydjango\myenv\Lib\site-packages\django\core\paginator.py first seen with mtime 1718197859.4942713
+File C:\mydjango\myPersonalExpenseTracker\templates\add_transaction.html first seen with mtime 1718458285.2337105
+File C:\mydjango\myPersonalExpenseTracker\templates\home.html first seen with mtime 1718466724.2455828
+File C:\mydjango\myPersonalExpenseTracker\templates\index.html first seen with mtime 1718282979.0456035
+File C:\mydjango\myPersonalExpenseTracker\templates\login.html first seen with mtime 1718202086.9683383
+File C:\mydjango\myPersonalExpenseTracker\templates\manage_accounts.html first seen with mtime 1718455583.9733114
+File C:\mydjango\myPersonalExpenseTracker\templates\manage_categories.html first seen with mtime 1718459350.0235903
+File C:\mydjango\myPersonalExpenseTracker\templates\manage_tags.html first seen with mtime 1718460676.0652106
+File C:\mydjango\myPersonalExpenseTracker\templates\member.html first seen with mtime 1718198266.729466
+File C:\mydjango\myPersonalExpenseTracker\templates\signup.html first seen with mtime 1718202775.4312336
+(0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+(0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\stringprep.py first seen with mtime 1709547526.0237937
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1718197859.1203294
+File C:\mydjango\myenv\Lib\site-packages\PIL\__init__.py first seen with mtime 1718285470.403828
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1718197856.6363451
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1718197856.109506
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1718197856.1147366
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1718197858.030935
+File C:\mydjango\myenv\Lib\site-packages\PIL\_binary.py first seen with mtime 1718285470.403828
+File C:\mydjango\myenv\Lib\site-packages\PIL\ExifTags.py first seen with mtime 1718285470.2870245
+File C:\mydjango\myPersonalExpenseTracker\migrations\0001_initial.py first seen with mtime 1718461319.3680792
+File C:\mydjango\myPersonalExpenseTracker\migrations\__init__.py first seen with mtime 1718196969.6394663
+File C:\mydjango\myenv\Lib\site-packages\PIL\Image.py first seen with mtime 1718285470.3127794
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1718197859.761319
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1718197856.6391666
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1718197858.7566445
+File C:\mydjango\myenv\Lib\site-packages\django\views\defaults.py first seen with mtime 1718197860.130624
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1718197856.107515
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1718197855.071614
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1718197856.1162505
+File C:\mydjango\myenv\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1718285470.3921468
+File C:\mydjango\myenv\Lib\site-packages\PIL\_imaging.cp312-win_amd64.pyd first seen with mtime 1718285470.4280071
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1718197855.0703287
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\connections.py first seen with mtime 1718199713.3830633
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1718197856.10352
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1718197855.071614
+File C:\mydjango\myenv\Lib\site-packages\MySQLdb\cursors.py first seen with mtime 1718199713.3852398
+File C:\mydjango\myenv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1718197859.9862664
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1718197859.7572968
+File C:\mydjango\myenv\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1718197854.3122582
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\__future__.py first seen with mtime 1709547526.2624996
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1718197855.0667057
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1718197859.1203294
+File C:\mydjango\mydjango\wsgi.py first seen with mtime 1718196809.036428
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1718197856.1232386
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1718197859.761319
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1718197856.6363451
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1718197856.1162505
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1718197856.1232386
+File C:\mydjango\myenv\Lib\site-packages\PIL\_typing.py first seen with mtime 1718285470.4702034
+File C:\mydjango\myenv\Lib\site-packages\PIL\ImageMode.py first seen with mtime 1718285470.333434
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1718197858.764767
+File C:\mydjango\myenv\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1718197859.512201
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1718197856.107515
+File C:\mydjango\myenv\Lib\site-packages\PIL\_util.py first seen with mtime 1718285470.4713898
+File C:\mydjango\myenv\Lib\site-packages\PIL\_version.py first seen with mtime 1718285470.4713898
+File C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\encodings\idna.py first seen with mtime 1709547524.181548
+File C:\mydjango\myenv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1718197859.829768
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1718197856.1203315
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1718197856.1162505
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1718197856.1203315
+File C:\mydjango\myenv\Lib\site-packages\django\middleware\common.py first seen with mtime 1718197859.9891324
+File C:\mydjango\myenv\Lib\site-packages\django\views\csrf.py first seen with mtime 1718197860.128361
+File C:\mydjango\myenv\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1718197856.1120207
+File C:\mydjango\myenv\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1718197859.7653143
+File C:\mydjango\myenv\Lib\site-packages\django\db\backends\mysql\compiler.py first seen with mtime 1718197859.7102447
